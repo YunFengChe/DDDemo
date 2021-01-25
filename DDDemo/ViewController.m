@@ -19,7 +19,7 @@
     
     self.title = @"测试Demo";
     
-    self.view.backgroundColor = [UIColor yellowColor];
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 
