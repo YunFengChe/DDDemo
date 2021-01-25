@@ -17,7 +17,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    self.title = @"测试demo";
+    self.title = @"测试Demo";
+    
+    self.view.backgroundColor = [UIColor yellowColor];
 }
 
 
